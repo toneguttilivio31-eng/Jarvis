@@ -1,0 +1,12 @@
+{
+  "name": "JARVIS 1.1 — Assistant personnel",
+  "short_name": "JARVIS",
+  "description": "Assistant personnel avec missions datées, notes rapides et conversation IA.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080b12",
+  "theme_color": "#080b12",
+  "orientation": "portrait-primary",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
